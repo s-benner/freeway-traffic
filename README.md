@@ -21,7 +21,7 @@ The project is split into different sections. Links to the appropriate notebooks
 
   - Data preprocessing (link missing)
   
-  asd
+
   
   - ajsd
     asdasd
